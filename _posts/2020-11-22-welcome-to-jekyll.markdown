@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-11-22 08:34:37 -0500
+title:  "Welcome to Jekyll
 categories: jekyll update
 ---
 Best way to make money only 
